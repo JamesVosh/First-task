@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>Benchmark.FirstTaskBenchmark-20260220-112541</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.15.8, Windows 11 (10.0.22000.2538/21H2/SunValley)
+Intel Core i5-10400F CPU 2.90GHz, 1 CPU, 12 logical and 6 physical cores
+  [Host]     : .NET Framework 4.8.1 (4.8.9181.0), X64 RyuJIT VectorSize=256 [AttachedDebugger]
+  DefaultJob : .NET Framework 4.8.1 (4.8.9181.0), X64 RyuJIT VectorSize=256
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method         </th><th>Mean</th><th>Error</th><th>StdDev</th><th>Rank</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>Sort_Shella_10</td><td>2.564 &mu;s</td><td>0.0343 &mu;s</td><td>0.0446 &mu;s</td><td>1</td><td>-</td>
+</tr><tr><td>Sort_bubble_10</td><td>4.520 &mu;s</td><td>0.0777 &mu;s</td><td>0.0727 &mu;s</td><td>2</td><td>-</td>
+</tr><tr><td>Sort_direct_choice_10</td><td>5.652 &mu;s</td><td>0.1094 &mu;s</td><td>0.1075 &mu;s</td><td>3</td><td>-</td>
+</tr></tbody></table>
+</body>
+</html>

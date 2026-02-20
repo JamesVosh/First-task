@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\BenchmarkTestsForFirstTask\\BenchmarkTestsForFirstTask.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\BenchmarkTestsForFirstTask\\BenchmarkTestsForFirstTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\BenchmarkTestsForFirstTask\\BenchmarkTestsForFirstTask.csproj",
+        "projectName": "BenchmarkTestsForFirstTask",
+        "projectPath": "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\BenchmarkTestsForFirstTask\\BenchmarkTestsForFirstTask.csproj",
+        "packagesPath": "C:\\Users\\orazo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\BenchmarkTestsForFirstTask\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\orazo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\FirstTask\\FirstTask.csproj": {
+                "projectPath": "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\FirstTask\\FirstTask.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.15.8, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\FirstTask\\FirstTask.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\FirstTask\\FirstTask.csproj",
+        "projectName": "FirstTask",
+        "projectPath": "C:\\Users\\orazo\\Favorites\\КФУ Динислам\\2 курс 4 семестр\\Практика\\MainSolution\\FirstTask\\FirstTask.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

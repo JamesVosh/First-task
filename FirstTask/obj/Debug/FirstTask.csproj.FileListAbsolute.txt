@@ -1,0 +1,7 @@
+C:\Users\orazo\Favorites\КФУ Динислам\2 курс 4 семестр\Практика\MainSolution\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\orazo\Favorites\КФУ Динислам\2 курс 4 семестр\Практика\MainSolution\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\orazo\Favorites\КФУ Динислам\2 курс 4 семестр\Практика\MainSolution\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\orazo\Favorites\КФУ Динислам\2 курс 4 семестр\Практика\MainSolution\FirstTask\obj\Debug\FirstTask.csproj.AssemblyReference.cache
+C:\Users\orazo\Favorites\КФУ Динислам\2 курс 4 семестр\Практика\MainSolution\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\orazo\Favorites\КФУ Динислам\2 курс 4 семестр\Практика\MainSolution\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\orazo\Favorites\КФУ Динислам\2 курс 4 семестр\Практика\MainSolution\FirstTask\obj\Debug\FirstTask.pdb
