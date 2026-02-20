@@ -1,1 +1,7 @@
 .vs
+BenchmarkTestsForFirstTask/bin/
+BenchmarkTestsForFirstTask/obj/
+FirstTask/bin/
+FirstTask/obj/
+NUnitTestsForFirstTask/bin/
+NunitTestsForFirstTask/obj/
